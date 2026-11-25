@@ -1,0 +1,25 @@
+Company: PixelNest Technologies (fictional)
+Role: Junior React Frontend Developer
+Location: Bengaluru (hybrid)
+
+About the role:
+You will build and maintain customer-facing dashboards for our analytics product.
+You will work closely with designers and backend engineers in a small product team.
+
+Responsibilities:
+- Build reusable UI components using React and TypeScript
+- Integrate REST APIs and handle loading and error states properly
+- Write unit tests for components and fix bugs reported by QA
+- Participate in code reviews and daily standups
+
+Required skills:
+- 1+ years of experience with React (hooks, state management)
+- Strong JavaScript (ES6+), HTML and CSS
+- Experience consuming REST APIs
+- Git and basic command line usage
+
+Nice to have:
+- TypeScript, Jest or React Testing Library
+- Experience with Tailwind CSS or any component library
+- Basic knowledge of CI/CD pipelines
+- Exposure to GenAI or chat-based UIs
