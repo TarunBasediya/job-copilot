@@ -1,9 +1,11 @@
-1. **React Fundamentals**: Can you explain how React hooks like `useState` and `useEffect` work, and give an example of how you would manage component state and side effects in a dashboard component?
+# Interview Questions for Junior React Frontend Developer
 
-2. **JavaScript (ES6+) Proficiency**: Describe the differences between `var`, `let`, and `const`, and provide an example of using modern ES6 features such as arrow functions, destructuring, and async/await in a data-fetching scenario.
+1. **React & State Management**: Can you walk us through how you would build a reusable component in React using hooks, and how you would manage its state and side‑effects?
 
-3. **HTML & CSS Skills**: How would you structure the markup and style for a responsive dashboard widget that needs to adapt to different screen sizes, and what CSS techniques (e.g., Flexbox, Grid) would you use?
+2. **JavaScript (ES6+) Proficiency**: Explain the difference between `let`, `const`, and `var` in JavaScript, and give an example of when you would use each within a React component.
 
-4. **Consuming REST APIs**: Walk us through how you would integrate a REST API to fetch analytics data, handle loading and error states, and ensure the UI updates correctly when the data changes.
+3. **HTML & CSS Layout**: How would you create a responsive dashboard layout that adapts to different screen sizes using modern CSS techniques (e.g., Flexbox or Grid)?
 
-5. **Git and Command Line Usage**: Explain your typical Git workflow for a feature branch, including how you would resolve a merge conflict using the command line, and why committing often is beneficial.
+4. **Consuming REST APIs**: Describe the steps you would take to fetch data from a REST API in a React component, including how you would handle loading states, errors, and cancellation of requests.
+
+5. **Git & Command‑Line Workflow**: What is your typical Git workflow when working on a feature branch? Include the commands you would use to stage changes, commit with a meaningful message, rebase, and resolve merge conflicts.

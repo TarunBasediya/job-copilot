@@ -1,13 +1,15 @@
-## Must-have Skills
-- React (hooks, state management) – 1+ years experience
-- Strong JavaScript (ES6+)
-- HTML & CSS
-- Consuming REST APIs
-- Git and basic command line usage
+# Required Skills
 
-## Nice-to-have Skills
-- TypeScript
-- Jest or React Testing Library
-- Tailwind CSS or any component library
-- Basic knowledge of CI/CD pipelines
-- Exposure to GenAI or chat‑based UIs
+## Must‑Have
+- 1+ years of experience with **React** (hooks, state management)
+- Strong **JavaScript** (ES6+)
+- Proficient **HTML** and **CSS**
+- Experience consuming **REST APIs** and handling loading/error states
+- Familiarity with **Git** and basic command‑line usage
+
+## Nice‑to‑Have
+- **TypeScript**
+- Testing with **Jest** or **React Testing Library**
+- Experience with **Tailwind CSS** or other component libraries
+- Basic knowledge of **CI/CD pipelines**
+- Exposure to **GenAI** or chat‑based UIs
