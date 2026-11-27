@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from ddgs import DDGS
 from langchain_core.tools import tool
 
-MAX_PAGE_CHARS = 6000  # ek page se itna hi text agent ko denge (context bachane ke liye)
+MAX_PAGE_CHARS = 3000  # ek page se itna hi text agent ko denge (context bachane ke liye)
 
 
 @tool
